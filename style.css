@@ -1,6 +1,41 @@
 /* This is awesome */
+* {
+  font-size: 100%;
+}
 body {
   background-color: #FC4446;
 color: white;
 font-family: 'Iceberg', cursive;
+font-size: 14px;
+  }
+  h1, h2, h3 {
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline;
+  }
+
+  h1 {
+    font-size: 36px;
+    font-weight: bold;
+    }
+
+    header h1 {
+    text-align: center;
+    }
+
+  h2 {
+    font-size: 24px;
+    font-weight: 900;
+  }
+
+  h3 {
+    font-size: 18px;
+  }
+
+  p {
+    line-height: 2;
+  }
+
+  a:hover {
+    text-decoration: underline overline;
   }
