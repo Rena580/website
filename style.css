@@ -28,17 +28,18 @@ body {
     }
   section {
       border: 1px solid gainsboro;
-      background-color: white;
       margin: 30px;
       padding: 30px;
     }
 
     section {
-      width: 50%;
+      width: 80%;
+      height: 50%;
     }
 
     img {
       height: 300px;
+
     }
 
     header h1 {
