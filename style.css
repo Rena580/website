@@ -1,6 +1,7 @@
 /* This is awesome */
 * {
   font-size: 100%;
+  border: 1px solid red;
 }
 body {
   background-color: #FC4446;
