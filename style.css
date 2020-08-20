@@ -8,10 +8,12 @@
   }
 body {
   background-color: #FC4446;
-  color: white;
+  color: black;
   font-family: 'Iceberg', cursive;
   font-size: 14px;
   margin: 50px;
+  background-image: url(images/purty_wood.png);
+  background-repeat: repeat;
   }
 
 h1, h2, h3 {
@@ -24,8 +26,7 @@ h1, h2, h3 {
 h1 {
     font-size: 36px;
     font-weight: bold;
-    border-bottom: 5px solid black;
-    border-top: 5px solid black;
+    color: Red;
     }
 
 section {
@@ -89,4 +90,12 @@ footer {
 
 .container {
   max-width: 1000px;
+  margin: 0 auto;
+  }
+
+.banner {
+    height: 350px;
+    background-image: url(images/woodymedia.jpeg);
+    background-size: auto;
+    background-position: center;
   }
