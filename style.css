@@ -24,8 +24,8 @@ h1, h2, h3 {
 h1 {
     font-size: 36px;
     font-weight: bold;
-    border-bottom: 5px solid grey;
-    border-top: 5px solid grey;
+    border-bottom: 5px solid black;
+    border-top: 5px solid black;
     }
 
 section {
